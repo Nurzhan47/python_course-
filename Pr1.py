@@ -1,0 +1,6 @@
+a=input('your name')
+b=input('your age')
+c=input('where do you live')
+print('your name',a)
+print('your age',b)
+print('you live in',c)
